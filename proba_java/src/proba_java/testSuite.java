@@ -12,11 +12,11 @@ import org.junit.Test;
 @SuiteClasses({ test.class,test2.class })
 public class testSuite {
 
-	
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
+
+@Test
+public void test() {
+fail("Not yet implemented");
+}
 
 }
