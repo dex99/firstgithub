@@ -17,6 +17,8 @@ public class test2 {
 		assertEquals("set value to 5", 5, w.getValue());
 		w.setValue(6);
 		assertEquals("set value to 5", 6, w.getValue());		
+		w.setValue(7);
+		assertEquals("set value to 5", 7, w.getValue());		
 	}
 
 }
